@@ -1,0 +1,19 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "mood based ambience",
+  "main": "server.js",
+  "dependencies": {
+    "concurrently": "^5.1.0",
+    "express": "^4.17.1",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
